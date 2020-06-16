@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-06-16 08:57:36">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 08:08:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf13957f2fd1d05098655e492799b6a9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_cf13957f2fd1d05098655e492799b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 08:08:48</sys_updated_on>
+        <title>PA Active Weekly</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">cf13957f2fd1d05098655e492799b6a9</page>
+                <summary>Last Upgrade</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-06-16 08:18:24</sys_created_on>
+                <sys_id>81651dff2fd1d05098655e492799b656</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-06-16 08:18:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-16 01:18:24">81651dff2fd1d05098655e492799b656</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:18:24</sys_created_on>
+                        <sys_id>05651dff2fd1d05098655e492799b656</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:18:24</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderJavascript</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-16 01:18:24">81651dff2fd1d05098655e492799b656</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:18:24</sys_created_on>
+                        <sys_id>4d651dff2fd1d05098655e492799b656</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:18:24</sys_updated_on>
+                        <value>Last Upgrade</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>action</name>
+                        <portal_section display_value="Created 2020-06-16 01:18:24">81651dff2fd1d05098655e492799b656</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:18:24</sys_created_on>
+                        <sys_id>89651dff2fd1d05098655e492799b656</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:18:24</sys_updated_on>
+                        <value>upgrade_history</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-06-16 01:18:24">81651dff2fd1d05098655e492799b656</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:18:24</sys_created_on>
+                        <sys_id>c1651dff2fd1d05098655e492799b657</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:18:24</sys_updated_on>
+                        <value>system</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer_id</name>
+                        <portal_section display_value="Created 2020-06-16 01:18:24">81651dff2fd1d05098655e492799b656</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:18:24</sys_created_on>
+                        <sys_id>c5651dff2fd1d05098655e492799b656</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:18:24</sys_updated_on>
+                        <value>a066bb690a0a0aa300d40d0cce7ed94f</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">cf13957f2fd1d05098655e492799b6a9</page>
+                <summary>NeedIt Requests Active Weekly List</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                <sys_id>94f315bf2fd1d05098655e492799b623</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-06-16 08:13:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-06-16 01:12:03">94f315bf2fd1d05098655e492799b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                        <sys_id>14f315bf2fd1d05098655e492799b624</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:12:03</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-06-16 01:12:03">94f315bf2fd1d05098655e492799b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                        <sys_id>18f315bf2fd1d05098655e492799b623</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:13:24</sys_updated_on>
+                        <value>e0f399bf2fd1d05098655e492799b629</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-06-16 01:12:03">94f315bf2fd1d05098655e492799b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                        <sys_id>50f315bf2fd1d05098655e492799b624</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:12:03</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-06-16 01:12:03">94f315bf2fd1d05098655e492799b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                        <sys_id>5cf315bf2fd1d05098655e492799b624</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:13:24</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-16 01:12:03">94f315bf2fd1d05098655e492799b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                        <sys_id>9cf315bf2fd1d05098655e492799b623</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:12:03</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-16 01:12:03">94f315bf2fd1d05098655e492799b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:12:03</sys_created_on>
+                        <sys_id>d4f315bf2fd1d05098655e492799b624</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:13:24</sys_updated_on>
+                        <value>NeedIt Requests Active Weekly List</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">cf13957f2fd1d05098655e492799b6a9</page>
+                <summary>Sticky Note</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-06-16 08:16:48</sys_created_on>
+                <sys_id>bd0519ff2fd1d05098655e492799b611</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-06-16 08:16:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-16 01:16:48">bd0519ff2fd1d05098655e492799b611</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:16:48</sys_created_on>
+                        <sys_id>310519ff2fd1d05098655e492799b612</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:16:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderJavascript</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-06-16 01:16:48">bd0519ff2fd1d05098655e492799b611</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:16:48</sys_created_on>
+                        <sys_id>3d0519ff2fd1d05098655e492799b612</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:16:48</sys_updated_on>
+                        <value>sticky</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-16 01:16:48">bd0519ff2fd1d05098655e492799b611</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:16:48</sys_created_on>
+                        <sys_id>b50519ff2fd1d05098655e492799b612</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:16:48</sys_updated_on>
+                        <value>Sticky Note</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer_id</name>
+                        <portal_section display_value="Created 2020-06-16 01:16:48">bd0519ff2fd1d05098655e492799b611</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:16:48</sys_created_on>
+                        <sys_id>f10519ff2fd1d05098655e492799b612</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:16:48</sys_updated_on>
+                        <value>a066bb690a0a0aa300d40d0cce7ed94f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>content</name>
+                        <portal_section display_value="Created 2020-06-16 01:16:48">bd0519ff2fd1d05098655e492799b611</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:16:48</sys_created_on>
+                        <sys_id>fd0519ff2fd1d05098655e492799b612</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:16:48</sys_updated_on>
+                        <value>Default sticky note text here.</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">cf13957f2fd1d05098655e492799b6a9</page>
+                <summary>NeedIt Requests Active Weekly by Priority</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                <sys_id>d854d1bf2fd1d05098655e492799b6cb</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-06-16 08:14:57</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-16 01:13:41">d854d1bf2fd1d05098655e492799b6cb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                        <sys_id>1c54d1bf2fd1d05098655e492799b6cc</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:14:57</sys_updated_on>
+                        <value>NeedIt Requests Active Weekly by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-06-16 01:13:41">d854d1bf2fd1d05098655e492799b6cb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                        <sys_id>5854d1bf2fd1d05098655e492799b6cc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:13:41</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-06-16 01:13:41">d854d1bf2fd1d05098655e492799b6cb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                        <sys_id>5c54d1bf2fd1d05098655e492799b6cb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:14:57</sys_updated_on>
+                        <value>ec5415bf2fd1d05098655e492799b64f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-06-16 01:13:41">d854d1bf2fd1d05098655e492799b6cb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                        <sys_id>9054d1bf2fd1d05098655e492799b6cd</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:14:57</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-06-16 01:13:41">d854d1bf2fd1d05098655e492799b6cb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                        <sys_id>9454d1bf2fd1d05098655e492799b6cc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:13:41</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-16 01:13:41">d854d1bf2fd1d05098655e492799b6cb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-06-16 08:13:41</sys_created_on>
+                        <sys_id>d054d1bf2fd1d05098655e492799b6cc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-06-16 08:13:41</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
